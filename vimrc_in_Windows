@@ -13,3 +13,4 @@ map<f12> :w<cr>:!gdb %<.exe<cr>
 
 autocmd QuickFixCmdPost [^l]* nested cwindow 8
 autocmd QuickFixCmdPost l* nested lwindow
+
